@@ -27,8 +27,8 @@
     "posthtml-render": "^3.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^16.2.1",
-    "@commitlint/config-angular": "^16.2.1",
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-angular": "^17.0.0",
     "c8": "^7.7.3",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
