@@ -33,7 +33,7 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-subset": "^1.6.0",
-    "conventional-changelog-cli": "^2.1.1",
+    "conventional-changelog-cli": "^4.0.0",
     "husky": "^7.0.1",
     "jsdoc-to-markdown": "^7.0.1",
     "lint-staged": "^12.3.4",
